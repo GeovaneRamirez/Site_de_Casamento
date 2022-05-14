@@ -35,21 +35,3 @@ Atenção:
 Fique atento para colocar o link correto das imagens na codificação da página e, caso a opção seja usar as imagens localmente no dispositivo, você deve criar uma pasta  contendo o arquivo HTML da atividade e as devidas imagens. ENVIAR ESSA PASTA COMPACTADA.
 
 O uso do CSS é fundamental na avaliação da atividade.
-
-Dicas:
-
-• Colocar título da página entre as tags title e /title;
-
-• Usar a tag h2 para título de cada coluna/linha
-
-• Colocar a imagem dos casamentos na mesma pasta do arquivo html ou criar uma pasta apenas para imagens;
-
-• Utilize classes para criar estilizações.
-
-• Link interessante para achar fotos de casamentos:
-
-- https://br.freepik.com/index.php?goto=2&searchform=1&k=casamentos&type=0&vars=1
-
-Obs.: Não esqueça de colocar a referência das fotos.
-
-Exemplo: Segue abaixo um exemplo para demonstrar o que está sendo solicitado.
