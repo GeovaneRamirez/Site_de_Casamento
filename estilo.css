@@ -1,0 +1,65 @@
+body {
+  background-color: #1e1d20;
+}
+.principal {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.coluna1,
+.coluna2,
+.coluna3,
+.coluna4,
+.coluna5 {
+  align-items: center;
+  margin: 1%;
+}
+.coluna1 {
+  flex-grow: 1;
+}
+.coluna2 {
+  flex-grow: 1;
+}
+.coluna3 {
+  flex-grow: 1;
+}
+.coluna4 {
+  flex-grow: 1;
+}
+.coluna5 {
+  flex-grow: 1;
+}
+img {
+  width: 100%;
+  margin: 1.5%;
+}
+h1 {
+  text-align: center;
+  color: #daa520;
+  font-size: 5em;
+  font-family: "Kunstler Script";
+}
+
+h2 {
+  text-align: center;
+  color: #daa520;
+  font-size: 30px;
+  font-family: "Kunstler Script";
+}
+h3 {
+  text-align: center;
+  color: #daa520;
+  font-size: 12px;
+}
+a:link,
+a:visited {
+  color: #daa520;
+}
+.frase {
+  text-align: center;
+  color: #daa520;
+  font-size: 50px;
+  font-family: "Kunstler Script";
+  border-top-color: #daa520;
+}
