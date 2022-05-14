@@ -1,13 +1,12 @@
 # Site_de_Casamento
 Nessa atividade fui convidado a desenvolver uma página de casamento utilizando apenas HTML e CSS.
 
-Aqui você encontra a atividade que deverá ser realizadas nesta Agenda. Salve o seu arquivo no formato: seuNome_Ag13_DS_I. Envie sua atividade aqui mesmo, pelo fichário.
+## [link para acessar o site](https://geovaneramirez.github.io/Site_de_Casamento/)
 
-Em caso de dúvidas, procure o seu mediador por meio do correio Tec.
 
-Fique atento ao prazo indicado!
 
-Atividade:
+
+## Atividade:
 
 Seu Ubaldo, o artesão das alpargatas, entrou em contato com os desenvolvedores do site da Video Game Show dizendo que gostou muito da página e solicitando um site de casamento personalizado para a sua filha Zuleika.
 
